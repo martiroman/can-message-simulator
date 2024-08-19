@@ -21,7 +21,7 @@ A Python-based CAN (Controller Area Network) message simulator with a graphical 
 ### Install Dependencies
 
 ```bash
-pip install pyqt5 python-can
+pip install -r requirements.txt
 ```
 
 ## Contributing
